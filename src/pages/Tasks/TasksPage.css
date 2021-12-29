@@ -1,0 +1,8 @@
+.TasksPage {
+    margin: 39px 300px 39px 300px;
+    padding: 92px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+}

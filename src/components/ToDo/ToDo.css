@@ -1,0 +1,36 @@
+.item-todo-wrapper{
+    width: 100%;
+}
+
+.todo-item__title {
+    margin-top: 15px;
+}
+
+.item-todo-wrapper__item {
+    padding: 15px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 2px solid #E5E5E5;
+}
+
+.item-todo .item-text {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.item-delete {
+    position: relative;
+    text-align: right;
+    display: inline-block;
+    cursor: pointer;
+    float: right;
+    font-size: 22px;
+    bottom: 25px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
